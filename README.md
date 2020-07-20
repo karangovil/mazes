@@ -1,2 +1,2 @@
-# mazes
+# Mazes
 C++ Library to create algorithmic mazes
